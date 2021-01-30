@@ -16,10 +16,10 @@ const info = require("./lib/info.js");
 const BotName = 'FANHCORE BOT'; 
 const instagram = 'https://instagram.com/fanhcore__2542'; 
 const telegram = '-'; 
-const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
+const kapanbotaktif = 'NTAH'; 
 const youtube = '-';
 //const grupch1 = 'https://chat.whatsapp.com/GnLdLnx9zx69Ypx1Hqyu6r'; 
-//const grupch2 = 'belum ada grup' ; 
+//const grupch2 = 'Blom ada grup' ; 
 const
 {
    WAConnection,
