@@ -1,7 +1,7 @@
 {
-  "name": "BetaBOT",
+  "name": "Fanhcore Bot",
   "version": "1.0.0",
-  "description": "bot wa yang mudah untuk digunakan",
+  "description": "Bot by Fanhcore__2542",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/kntnbotwa"
+    "url": "git+https://github.com/Casper-bit/Fanhcore-Bot"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Fanhcore__2542 from Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/kntnbotwa/issues"
+    "url": "https://github.com/Casper-bit/Fanhcore-Bot/issues"
   },
-  "homepage": "https://github.com/benisadewa/kntnbotwa#readme"
+  "homepage": "https://github.com/Casper-bit/Fanhcore-Bot#readme"
 }
